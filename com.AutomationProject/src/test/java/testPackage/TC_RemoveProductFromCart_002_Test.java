@@ -37,6 +37,7 @@ public class TC_RemoveProductFromCart_002_Test extends BaseTest {
 		{
 		Reporter.log("Product is Reomoved from Cart",true);
         }
+		Reporter.log("Test case pass");
 		sa.assertAll();
 }
 }
